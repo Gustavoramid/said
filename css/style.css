@@ -1,0 +1,88 @@
+/*RESET*/
+
+*{margin: 0; padding: 0; font-size: 100%; font-family: 'Open Sans', sans-serif; font-weight: normal; box-sizing: border-box; border: none; outline: none;}
+
+img {max-width: 100%;}
+
+ul {list-style: none;}
+
+a {text-decoration: none;}
+
+h2 {font-size: 1.5em; color: #333;}
+
+p {font-size: 1em; color: #8e00d4;}
+
+/*CABECALHO*/
+
+.cabecalho { width: 100%; float: left; padding: 5px 5%;
+
+background-color: #8e00d4;}
+
+.logo a { width: 210px; height: 90px; float: left; background: url(../img/logocafeeeeeeeeeeeeeeee-removebg-preview.png) no-repeat; font-size: 0;}
+
+.cabecalho form {width: 30%; float: right;}
+
+.cabecalho input[type="text"] {width: 85%; float: left;
+     padding: 15px 10px; border-radius: 5px 0 0 5px;}
+
+.cabecalho button {width: 15%; float: right; padding:
+     15px 10px; background-color: #040306; color: #68666e;
+     cursor: pointer; border-radius: 0 5px 5px 0;}
+      /*menu*/
+
+ .menu{width: 100%; float: left; background-color: #111;
+    padding: 18px 8%;}
+    .menu li {float: left;}
+    .menu li a {color: #9d9d9d; margin-right: 25px;}
+    .menu li a:hover {color: #4c00ff;}
+
+    .social-icons {width: 30%; float: left; background-color: #111;
+        padding: 0px 8%;}
+     
+/*social incon*/
+.social-icons {float: right;}
+.social-icons a {color: #fff; float: left; margin-left: 12px;}
+.btn-facebook:hover {color: #0000b5;}
+.bnt-twitter:hover {color: #07d2ff;}
+.bnt-whatsapp:hover {color: #15ff00;}
+.bnt-instagram:hover {color: #ed1ded;}
+.btn-tiktok:hover {color: #5a0065;}
+/*/PRINCIPAL*/
+.principal {width: 100%; float: left; padding: 20px 8%;}
+.sobre {width: 70%; float: left; padding: 0 20px 20px 0;}
+.sobre h2 {margin-bottom: 15px;}
+.sobre img {width: 100%; float: left; border-radius: 5px;
+     margin: 0 15PX 15PX 0;}
+     .SOBRE P {text-align: justify;}
+
+/*onde*/
+.onde-estamos {width: 30%; float: right; padding: 10px 20px; background-color: #000000; border-radius: 5px;}
+
+.onde-estamos h2  {margin-bottom: 5px; text-align: center;color:#8e00d4; font-weight: bold; font-family:'Times New Roman', Times, serif ;}
+
+.onde-estamos iframe {width: 100%; height: 250px; margin-right: 20px;}
+
+.onde-estamos li {color:#8e00d4; margin-bottom: 10px; margin-top: 5px;}
+
+.onde-estamos i {margin-right: 5px;} 
+
+/*NEWSLETTER*/ 
+.newsletter {width: 100%; float: left;
+
+background-color: #111; padding: 50px 8%;}
+
+.newsletter h3 {font-size: 1.8em; color: #fff;}
+
+.newsletter p{font-size: 1.2em; color: #fff;}
+
+.newsletter form {width: 100%; float: left; margin-top: 10px;}
+
+.newsletter form input { width: 40%; margin-right: 1%; padding: 15px 10px; border: 1px solid #fff; border-radius: 1px; color: #fff; background-color: initial; float: left;}
+
+.newsletter button {width: 18%; background-color: ■#fff; padding: 15px 10px; border-radius: 5px; float: right; cursor: pointer;}
+
+.rodape{width: 100%; float: left; background-color: #6200ff;}
+
+.rodape p {color:#e100ff; text-align: center; font-family: 'Times New Roman', Times, serif;}
+
+body {background-color: #0f1117;}
